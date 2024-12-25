@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/357be021-8cab-45a1-8ed3-90fb9cccd387)
+
+
 # HoneyApp-TailwindCSS
 
 A honey application built with **TailwindCSS** and **ReactJS**. This app provides a responsive user interface to showcase the sweetness of honey. 
